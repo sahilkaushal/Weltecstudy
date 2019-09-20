@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Study WelTec</string>
+
+    <string name="appversion">Version:1.0.0_PA</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="search">Search</string>
+    <string name="drawer_open"></string>
+    <string name="drawer_close"></string>
+    <string name="temp">Coming soon...........</string>
+    <string name="enquiry">To send us an enquiry please fill in the following form, and we will endeavour to reply within 24 hours. .</string>
+    <string name="fa_glass">&#xf000;</string>
+    <string name="fa_music">&#xf001;</string>
+    <string name="fa_search">&#xf002;</string>
+    <string name="fa_envelope_o">&#xf003;</string>
+    <string name="fa_heart">&#xf004;</string>
+    <string name="fa_star">&#xf005;</string>
+    <string name="fa_star_o">&#xf006;</string>
+    <string name="fa_user">&#xf007;</string>
+    <string name="fa_film">&#xf008;</string>
+    <string name="fa_chevron_right">&#xf054;</string>
+    <string name="fa_chevron_down">&#xf078;</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_infoviewpager">InfoviewpagerActivity</string>
+    <!--  we need to use video ids instead of video link  -->
+    <string name="slide_1_title">Welcome to WelTec!</string>
+    <string name="slide_1_desc"> WelTec qualifications are future focused, developed alongside industry and provide you with practical skills so you can pursue your career goals.</string>
+
+    <string name="slide_2_title">Student Speak Out</string>
+    <string name="slide_2_desc">Determine WelTec students perceptions of the campus climate and knowledge in the Student Speak Out survey through vides.</string>
+
+    <string name="slide_3_title">Courses</string>
+    <string name="slide_3_desc">WelTec offers a range of qualifications in business, constructions, engineering, hospitality, IT and more. These provide students with work ready skills.</string>
+
+    <string name="slide_4_title">Location</string>
+    <string name="slide_4_desc">Setting up Googl map helps students find and interact with WelTec Campuses locations. Managing them does not have to be hard work.</string>
+
+</resources>
